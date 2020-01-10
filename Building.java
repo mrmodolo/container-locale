@@ -1,0 +1,73 @@
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class Building {
+  public static void main(String[] args) {
+    Logger logger = LoggerFactory.getLogger(Building.class);
+
+    logger.info("Amou daquela vez como se fosse a última");
+    logger.info("Beijou sua mulher como se fosse a última");
+    logger.info("E cada filho seu como se fosse o único");
+    logger.info("E atravessou a rua com seu passo tímido");
+    logger.info("");
+    logger.info("Subiu a construção como se fosse máquina");
+    logger.info("Ergueu no patamar quatro paredes sólidas");
+    logger.info("Tijolo com tijolo num desenho mágico");
+    logger.info("Seus olhos embotados de cimento e lágrima");
+    logger.info("");
+    logger.info("Sentou pra descansar como se fosse sábado");
+    logger.info("Comeu feijão com arroz como se fosse um príncipe");
+    logger.info("Bebeu e soluçou como se fosse um náufrago");
+    logger.info("Dançou e gargalhou como se ouvisse música");
+    logger.info("");
+    logger.info("E tropeçou no céu como se fosse um bêbado");
+    logger.info("E flutuou no ar como se fosse um pássaro");
+    logger.info("E se acabou no chão feito um pacote flácido");
+    logger.info("Agonizou no meio do passeio público");
+    logger.info("Morreu na contramão, atrapalhando o tráfego");
+    logger.info("");
+    logger.info("Amou daquela vez como se fosse o último");
+    logger.info("Beijou sua mulher como se fosse a única");
+    logger.info("E cada filho seu como se fosse o pródigo");
+    logger.info("E atravessou a rua com seu passo bêbado");
+    logger.info("");
+    logger.info("Subiu a construção como se fosse sólido");
+    logger.info("Ergueu no patamar quatro paredes mágicas");
+    logger.info("Tijolo com tijolo num desenho lógico");
+    logger.info("Seus olhos embotados de cimento e tráfego");
+    logger.info("");
+    logger.info("Sentou pra descansar como se fosse um príncipe");
+    logger.info("Comeu feijão com arroz como se fosse o máximo");
+    logger.info("Bebeu e soluçou como se fosse máquina");
+    logger.info("Dançou e gargalhou como se fosse o próximo");
+    logger.info("");
+    logger.info("E tropeçou no céu como se ouvisse música");
+    logger.info("E flutuou no ar como se fosse sábado");
+    logger.info("E se acabou no chão feito um pacote tímido");
+    logger.info("Agonizou no meio do passeio náufrago");
+    logger.info("Morreu na contramão atrapalhando o público");
+    logger.info("");
+    logger.info("Amou daquela vez como se fosse máquina");
+    logger.info("Beijou sua mulher como se fosse lógico");
+    logger.info("Ergueu no patamar quatro paredes flácidas");
+    logger.info("Sentou pra descansar como se fosse um pássaro");
+    logger.info("E flutuou no ar como se fosse um príncipe");
+    logger.info("E se acabou no chão feito um pacote bêbado");
+    logger.info("Morreu na contramão atrapalhando o sábado");
+    logger.info("");
+    logger.info("Por esse pão pra comer, por esse chão pra dormir");
+    logger.info("A certidão pra nascer e a concessão pra sorrir");
+    logger.info("Por me deixar respirar, por me deixar existir");
+    logger.info("Deus lhe pague");
+    logger.info("");
+    logger.info("Pela cachaça de graça que a gente tem que engolir");
+    logger.info("Pela fumaça e a desgraça que a gente tem que tossir");
+    logger.info("Pelos andaimes pingentes que a gente tem que cair");
+    logger.info("Deus lhe pague");
+    logger.info("");
+    logger.info("Pela mulher carpideira pra nos louvar e cuspir");
+    logger.info("E pelas moscas bicheiras a nos beijar e cobrir");
+    logger.info("E pela paz derradeira que enfim vai nos redimir");
+    logger.info("Deus lhe pague");
+  }
+}
